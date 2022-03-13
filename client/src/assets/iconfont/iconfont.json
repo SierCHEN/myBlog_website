@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5428509",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e70d",
+      "unicode_decimal": 59149
+    },
+    {
+      "icon_id": "21169231",
+      "name": "blogger-logo",
+      "font_class": "blogger-logo",
+      "unicode": "e589",
+      "unicode_decimal": 58761
+    }
+  ]
+}
